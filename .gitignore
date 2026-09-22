@@ -1,0 +1,16 @@
+# --- macOS ---------------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- Windows -------------------------------------------------------
+Thumbs.db
+Desktop.ini
+
+# --- Editors -------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+
+# --- Project reports (kept locally, not published) ---
+Documentation/
